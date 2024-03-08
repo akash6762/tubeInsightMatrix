@@ -1,5 +1,12 @@
-from config import YOUTUBE
+from scripts import YOUTUBE
 import json
+
+__all__ = ["get_channel_id_by_name",
+           "get_playlist_id",
+           "get_video_ids_by_playlist_id", 
+           "get_video_details", 
+           "get_video_comments", 
+           "make_video_details_comments"]
 
 def get_channel_id_by_name(channel_name: str) -> str:
     request = YOUTUBE.search().list(
@@ -63,9 +70,13 @@ def get_video_comments(video_id: str):
     response = request.execute()
     return response
 
-def make_video_details_comments(channel_name):
+def make_video_details_comments(name_od_id: str, streamlit_option: str):
     
-    channel_id = get_channel_id_by_name(channel_name)
+    if streamlit_option == "channel name":
+        channel_id = get_channel_id_by_name(name_od_id)
+    else:
+        channel_id = name_od_id
+    
     playlist_id = get_playlist_id(channel_id)
     video_ids = get_video_ids_by_playlist_id(playlist_id)
     
@@ -124,11 +135,11 @@ def make_video_details_comments(channel_name):
             }
         }
         video_details.append(appending_video_data)
+
+    total_video_and_comments_details = {
+        "channel_details": channel_details, 
+        "video_details": video_details
+    }
         
-    return video_details
-    
-if __name__ == "__main__":
-    total = make_video_details_comments("future demand")
-   
-    with open("total.json", "w") as file:
-        json.dump(total, file, indent=4)
+    return total_video_and_comments_details
+
