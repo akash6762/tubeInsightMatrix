@@ -1,0 +1,78 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "2ytKzN1ddONA1cFDFVsDDaISNKU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "7_-KMPkUrmjxR8ZBRgh8ksireB0",
+            "id": "NSXZrvGW_kE",
+            "snippet": {
+                "publishedAt": "2024-02-26T14:17:59Z",
+                "channelId": "UCmGSJVG3mCRXVOP4yZrU1Dw",
+                "title": "Understanding South Africa\u2019s Genocide Case Against Israel, Part 6: What's Next",
+                "description": "Check out my new channel with Sam Ellis - Search Party: https://youtube.com/@Search-Party\n\nGet access to behind-the-scenes vlogs, my scripts, and extended interviews over at https://www.patreon.com/johnnyharris\n\nDo you have an insider tip or unique information on a story? Do you have a suggestion for a story you want us to cover? Submit to the Tip Line: https://docs.google.com/forms/d/e/1FAIpQLSdpNs1ykIwd7KNkwntN897X_SX9hJ8WiTH_erlLU_bQp2GGLg/viewform?usp=sharing\n\nI made a poster about maps - check it out: https://store.dftba.com/products/all-maps-are-wrong-poster\n\nCustom Presets & LUTs [what we use]: https://store.dftba.com/products/johnny-iz-luts-and-presets\n\nThe music for this video, created by our in house composer Tom Fox, is available on our music channel, The Music Room!\n\nAbout: \nJohnny Harris is an Emmy-winning independent journalist and contributor to the New York Times. Based in Washington, DC, Harris reports on interesting trends and stories domestically and around the globe, publishing to his audience of over 3.5 million on Youtube.  Harris produced and hosted the twice Emmy-nominated series Borders for Vox Media. His visual style blends motion graphics with cinematic videography to create content that explains complex issues in relatable ways.\n\n- press - \nNYTimes: https://www.nytimes.com/2021/11/09/opinion/democrats-blue-states-legislation.html\nNYTimes: https://www.nytimes.com/video/opinion/100000007358968/covid-pandemic-us-response.html\nVox Borders: https://www.youtube.com/watch?v=hLrFyjGZ9NU\nNPR Planet Money: https://www.npr.org/transcripts/1072164745\n\n\n- where to find me -\nInstagram: https://www.instagram.com/johnny.harris/\nTiktok: https://www.tiktok.com/@johnny.harris\nFacebook: https://www.facebook.com/JohnnyHarrisVox\nIz's (my wife\u2019s) channel: https://www.youtube.com/iz-harris\n\n- how i make my videos -\nTom Fox makes my music, work with him here: https://tfbeats.com/\nI make maps using this AE Plugin: https://aescripts.com/geolayers/?aff=77\nAll the gear I use: https://www.izharris.com/gear-guide\n \n- my courses - \nLearn a language: https://brighttrip.com/course/language/\nVisual storytelling: https://www.brighttrip.com/courses/visual-storytelling",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NSXZrvGW_kE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NSXZrvGW_kE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NSXZrvGW_kE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NSXZrvGW_kE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NSXZrvGW_kE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Johnny Harris",
+                "tags": [
+                    "Johnny Harris",
+                    "Johnny Harris Vox",
+                    "Vox Borders",
+                    "Johnny Harris Vox Borders",
+                    "Vox"
+                ],
+                "categoryId": "25",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Understanding South Africa\u2019s Genocide Case Against Israel, Part 6: What's Next",
+                    "description": "Check out my new channel with Sam Ellis - Search Party: https://youtube.com/@Search-Party\n\nGet access to behind-the-scenes vlogs, my scripts, and extended interviews over at https://www.patreon.com/johnnyharris\n\nDo you have an insider tip or unique information on a story? Do you have a suggestion for a story you want us to cover? Submit to the Tip Line: https://docs.google.com/forms/d/e/1FAIpQLSdpNs1ykIwd7KNkwntN897X_SX9hJ8WiTH_erlLU_bQp2GGLg/viewform?usp=sharing\n\nI made a poster about maps - check it out: https://store.dftba.com/products/all-maps-are-wrong-poster\n\nCustom Presets & LUTs [what we use]: https://store.dftba.com/products/johnny-iz-luts-and-presets\n\nThe music for this video, created by our in house composer Tom Fox, is available on our music channel, The Music Room!\n\nAbout: \nJohnny Harris is an Emmy-winning independent journalist and contributor to the New York Times. Based in Washington, DC, Harris reports on interesting trends and stories domestically and around the globe, publishing to his audience of over 3.5 million on Youtube.  Harris produced and hosted the twice Emmy-nominated series Borders for Vox Media. His visual style blends motion graphics with cinematic videography to create content that explains complex issues in relatable ways.\n\n- press - \nNYTimes: https://www.nytimes.com/2021/11/09/opinion/democrats-blue-states-legislation.html\nNYTimes: https://www.nytimes.com/video/opinion/100000007358968/covid-pandemic-us-response.html\nVox Borders: https://www.youtube.com/watch?v=hLrFyjGZ9NU\nNPR Planet Money: https://www.npr.org/transcripts/1072164745\n\n\n- where to find me -\nInstagram: https://www.instagram.com/johnny.harris/\nTiktok: https://www.tiktok.com/@johnny.harris\nFacebook: https://www.facebook.com/JohnnyHarrisVox\nIz's (my wife\u2019s) channel: https://www.youtube.com/iz-harris\n\n- how i make my videos -\nTom Fox makes my music, work with him here: https://tfbeats.com/\nI make maps using this AE Plugin: https://aescripts.com/geolayers/?aff=77\nAll the gear I use: https://www.izharris.com/gear-guide\n \n- my courses - \nLearn a language: https://brighttrip.com/course/language/\nVisual storytelling: https://www.brighttrip.com/courses/visual-storytelling"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "134428",
+                "likeCount": "7190",
+                "favoriteCount": "0",
+                "commentCount": "635"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}
